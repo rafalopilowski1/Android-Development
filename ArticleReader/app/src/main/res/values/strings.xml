@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Article Reader</string>
+    <string name="articles">Articles</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="weak_password">Weak password for registration</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="email_already_exists">Email is already registered</string>
+    <string name="share">Share\n</string>
+    <string name="share_using">Share using</string>
+    <string name="facebook_app_id">1000425821609919</string>
+    <string name="fb_login_protocol_scheme">fb1000425821609919</string>
+    <string name="facebook_client_token">a984468ed12675e502a09e9b677019a6</string>
+    <string name="visited">Visited</string>
+    <string name="favourite">Favourite</string>
+</resources>

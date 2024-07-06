@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503326935325",
+    "firebase_url": "https://article-reader-96ac4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "article-reader-96ac4",
+    "storage_bucket": "article-reader-96ac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503326935325:android:f952c9d3c27d38d8d4b9f4",
+        "android_client_info": {
+          "package_name": "edu.rafal_opilowski.articlereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503326935325-tnn4hqgeojneupag8jvsqd128e0fvgln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rafal_opilowski.articlereader",
+            "certificate_hash": "13a91bd435d5e09a33e90b6fb56ffe15fd14fbf2"
+          }
+        },
+        {
+          "client_id": "503326935325-d71abclp12asq29uuafa0nu2i1914vhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-6bllxV2CS4MYe0VB2rBiMekhc9y07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503326935325-d71abclp12asq29uuafa0nu2i1914vhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
