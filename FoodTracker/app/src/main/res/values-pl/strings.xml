@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrzeTerminarz</string>
+    <string name="save">Zapisz</string>
+    <string name="add">Dodaj</string>
+    <string name="product">Produkt</string>
+    <string name="category">Kategoria</string>
+    <string name="product_name">Nazwa produktu</string>
+    <string name="name">Nazwa</string>
+    <string name="expiry_date">Data ważności</string>
+    <string name="change_date">Zmień datę</string>
+    <string name="unit">Jednostka</string>
+    <string name="product_count">Liczba produktów</string>
+    <string name="count">Liczba</string>
+    <string name="filter">Filtruj</string>
+    <string name="type_in_name_of_an_product">Wpisz nazwę produktu!</string>
+    <string name="choose_unit_of_an_product">Wybierz jednostkę produktu!</string>
+    <string name="choose_expiry_date_of_an_product">Wybierz datę ważności produktu!</string>
+    <string name="expired">Przeterminowane</string>
+    <string name="food">Produkt spożywczy</string>
+    <string name="medicine">Lek</string>
+    <string name="cosmetic">Kosmetyk</string>
+    <string name="usable">Zdatne do spożycia</string>
+    <string name="this_item_has_expired_and_can_t_be_edited">Przekroczono datę ważności produktu"\n"Nie można go już edytować!</string>
+    <string name="you_ve_deleted">Usunąłeś %1$s!</string>
+    <string name="do_you_for_sure_want_to_delete_this_element">Jesteś pewien, że chcesz usunąć ten produkt?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+</resources>
